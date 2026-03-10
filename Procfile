@@ -1,0 +1,1 @@
+web: python3 -m functions_framework --target=atalaya_webhook --port=8080

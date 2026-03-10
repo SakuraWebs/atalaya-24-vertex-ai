@@ -1,0 +1,5 @@
+.cache/
+python-docs-samples/
+terraform-lab/
+*.pyc
+__pycache__/

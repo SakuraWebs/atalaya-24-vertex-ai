@@ -1,0 +1,7 @@
+functions-framework
+flask
+flask-cors
+google-adk
+google-genai
+google-cloud-discoveryengine
+gunicorn
